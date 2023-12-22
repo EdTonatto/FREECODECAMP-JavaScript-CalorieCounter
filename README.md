@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/calorie-counter-empty.png" width="400px" />
+  <a href="https://edtonatto.github.io/FREECODECAMP-JavaScript-CalorieCounter/" target="_blank"><img src="./img/calorie-counter-empty.png" width="400px" /></a>
 </p>
 
 <div align="center">
